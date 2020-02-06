@@ -1,5 +1,0 @@
-/home/bench/testground/cmake/demo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/bench/testground/cmake/demo1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bench/testground/cmake/demo1/cmake-build-debug/MathFunctions/CMakeFiles/rebuild_cache.dir
-/home/bench/testground/cmake/demo1/cmake-build-debug/MathFunctions/CMakeFiles/edit_cache.dir
-/home/bench/testground/cmake/demo1/cmake-build-debug/MathFunctions/CMakeFiles/MathFunctions.dir
