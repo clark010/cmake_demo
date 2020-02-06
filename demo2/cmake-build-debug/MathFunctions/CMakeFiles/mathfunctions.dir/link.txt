@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libmathfunctions.so -o libmathfunctions.so CMakeFiles/mathfunctions.dir/mysqrt.cxx.o 

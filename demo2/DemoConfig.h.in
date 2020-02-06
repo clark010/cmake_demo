@@ -1,0 +1,6 @@
+// the configured options and settings for Tutorial
+// 教程的配置选项和设置
+#define Demo_VERSION_MAJOR @Demo_VERSION_MAJOR@
+#define Demo_VERSION_MINOR @Demo_VERSION_MINOR@
+
+#cmakedefine USE_MYMATH
